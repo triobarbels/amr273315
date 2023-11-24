@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Lloyd",
+  "age": 25,
+  "address": {
+    "street": "Gojar Loop",
+    "city": "Maturoha",
+    "state": "AK",
+    "zip": "25849"
+  },
+  "contact": {
+    "phone": "(653) 538-2995",
+    "servicePhone": "800352443"
+  },
+  "birthday": "2003-10-26T21:33:23.895Z",
+  "ip": "75.134.156.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Le ruru kiug apteaga agfo welnasta favbome hi ej ofu hifac wakfaw ve bize. Davrolpud zihemu cebijpuv fuez kirci vuheun relliz mipzigag girasat tu rujime zazij piimu fuson. Bafduhbup ugme matomes cuaz bucuna agi jek ci mukuug owut mitfepliw ohsokuw tafilduw ca onifovi. De hezufu oriohwaz pappecwib hec hufo kiucha jijav notteci apo je ki izalo huukbej. Ho neftahzis ho ibukco su fenibnif ubibof ehaleg aco vu dubjuti paw retpi wi.",
+    "bio": "Wob fitsom ho tuter pusuhezef kuwo rifi tesujkor areife multan of civi gogke ecor jo pic juhgoar. Pu za sagefwol ifgot uruzuw wah bu wes ziren alo eliructi ibo. Fujpik bev he evju salte mebawge ajeditjuj akomujit sisubu lampo tujsa dege. Dakdefma gucub oliegibaf rehwowbis kigadag et lapmo kida agututuwa fa sed bewcap noguki entem debal mat hagzebvob. Ro cosifor romuk igabejguz woajo oduumuem ejzokem daruvjip bicuro er zikfu loztom uz ju dezieso habannel. Puhazi nibapon jo sanom cacuw gohba wuawu nu ojsi fog zircon kuhetda wi funkeg voufe."
+  },
+  "apiKey": "35d97eadb27b9f70cd9f07af88a52b94de634a39ca393aec7fb6b585530f5b31",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
