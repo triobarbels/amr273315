@@ -1,0 +1,26 @@
+{
+  "name": "Alice Hamilton",
+  "age": 20,
+  "address": {
+    "street": "Emuzi Drive",
+    "city": "Idedatrip",
+    "state": "IL",
+    "zip": "02074"
+  },
+  "contact": {
+    "phone": "(969) 557-2834",
+    "servicePhone": "800761548"
+  },
+  "birthday": "1990-08-06T06:58:45.243Z",
+  "ip": "240.50.64.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Cunvu wacilvaj zu rezci tizrojvi jizi ure siwhafe osuno osfape kumoid haag vewemve go. Gusnag nad inija miczikpig zowifnop gi gonewsos ifuhaduca likne sezker isacurup nul sunpabwi akanifdez koace li fo. Ozwo sej gub siej wuvun baw zicucez apnu paisi waf corsi ira.",
+    "bio": "Izsut zag lep elcuser vonene hafpuwce uwo la oruzisjeg tokwuc un bozjimo bofiz nudjenda covgili vimdo. Ume itu rudsuat hi gowe ozobow tuurtis filin zovbojuva ji mar hizlo ra ca zokawep jil. Awocevguv emacaop buke homoc necudook he reghema ane mu fodmasga seki tasfeksed ci vot adwatab vu gi davvo. Ogaeh bardavzi ji ronitoj mutmabe matlag tugehdi jezeme iviamo ibi bi gielamut paz bum wuluzbu luk rikurzi tibkurje. Gib sotfetma heniza kasilvo vazuhan lenoj awvoj ad gemi ra ziswozfi bobew cuahego oddovla nukkalku kajon udcilku roapi. Ib re wuczimnis igwe wukneb sihfaj vifgos kifezu ameanca suza ado raveljit jo no nensanjib cesliw se."
+  },
+  "apiKey": "c55680cd5996ed5eabcd896306dc55af453e728f26059833df098eadb8111e99",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
