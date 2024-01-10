@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Carter",
+  "age": 32,
+  "address": {
+    "street": "Jozho Pike",
+    "city": "Desaila",
+    "state": "OK",
+    "zip": "85901"
+  },
+  "contact": {
+    "phone": "(744) 363-1880",
+    "servicePhone": "800776454"
+  },
+  "birthday": "1973-03-04T08:33:44.083Z",
+  "ip": "16.70.187.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Boaz fum gigdu ijifu be zip tenabwup wior fuwu iko vuf rare. Supgi okunufgo noekinih arava ki juda gu neothuz beluwvu moakacip jitcukak ewnamak cewtedgu zorcuw helu. Ubdil noj hormetlin omcofo leemi ka jevmotob ogu savkohce sek suh umhin gijpu havza. Ejuihuip abo pampew ahabi mo zijcenu od cemeama pit bogmopjiv pizuva pujfup.",
+    "bio": "Wup roosolo vuduhdon cu kuwaji cebewlif van biwrolo taddo bodro jeb da. Sem bid dev dauz unitanu viwti hufope vofke riwiwzez wicubu wuc wog nih hirwaace otata. Lutojek sisjefe mohzaw cum ko cudhucuh leflin mafamagi mo odail viebovat jucug satom eveade kuvic kifivo ehamoama nakbukza."
+  },
+  "apiKey": "bd7550ace0873b07cb136b622aaa01d43430ee599ecb5781de6fcdd9dde0777b",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
