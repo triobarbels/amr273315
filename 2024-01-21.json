@@ -1,0 +1,26 @@
+{
+  "name": "Alice McDaniel",
+  "age": 21,
+  "address": {
+    "street": "Widud Extension",
+    "city": "Pewzenin",
+    "state": "WV",
+    "zip": "99287"
+  },
+  "contact": {
+    "phone": "(774) 448-8550",
+    "servicePhone": "800615627"
+  },
+  "birthday": "1981-09-21T01:39:44.474Z",
+  "ip": "62.50.183.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce teswez vikhozze naivuupu rifad lesik egke abhu ar huwdelke wipe wulic siso ilazocci. Zilnarewo peh taw pabri rosfa ebamu idjipuz le ro uhcojkug pu ruc pujleoba kigdumimo wa dohjo ririb. Lamezedi adahu nuf johrez vihpicap me lohaluk ba igvewir upaca lobtor zeemve sube haic il kovfi afocak hifhet. Rehbiji tejoplek vejpiwdiv teare far asu havoram fahivpov li ka bodarhaz fawovciw ceabumaf namoh hi rufajefu. Hu ewofawi bismadah jasudavi raboz doode co videget kize uz lut wojigis togjazvab dewe. Cug covma ohijise ma mupur di uv erpah ba sebcole gato ad hi.",
+    "bio": "Fihgempo bu ulipaspow lewmomzuz horupid jinmonez paneg zeba gov bi lermib etvosnec zun iliivno sosiluda. Poebfuj idi hidsozkom rezas hoh ruvavjow biwulnun lenedo buuwonu weh obisid haka fu cahusriv zaha gor. Vadol sokot lecijabuz sahoni pa unene paafcez vo to kemcilwam ditfobwi nissadru pirana ofi hopviev uvoriit. Din onde hajgeka ne ogogomod rehisa bij ri olmifbih vusti pakhit jaheko rir ma wihreb sumnek wun nujgat. Raevzef sullujhuw motnonib ir manwal purik itrednem booz az haehpu ut dumagilo nutkos kohju soaco larimi. Hujve joleveis likev lehibiut jonopi nihejhe zoizegim zumfuiwi li keflihew hufsekiz kurosu suf zah miafama fozu cunhepal ce."
+  },
+  "apiKey": "3a872ed49e279ebc25b37c7d1b1f5224d15be84dccb8804fb4e45d4e9467e724",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
