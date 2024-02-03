@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Pierce",
+  "age": 47,
+  "address": {
+    "street": "Icgur Circle",
+    "city": "Rutjuni",
+    "state": "NY",
+    "zip": "68206"
+  },
+  "contact": {
+    "phone": "(922) 894-4832",
+    "servicePhone": "800961424"
+  },
+  "birthday": "1965-08-12T04:30:18.328Z",
+  "ip": "28.160.80.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruewi set ij vazgesno megamvi ivekfis puruav leiw kesadsag gitgufju fo afcud. Dog momuvlig zihuf rug lildivo senuznag savnu ache uharinah do delkihzi ca afi medema kafza do gendeke. Ko owaovaji pomnutra vajorlab ga ermav ke fuwu hikes susot ekios hurujalu logvu pov.",
+    "bio": "Bowujzaw egdaz jitoz pu usidinaje nidocco gufacad vibubotod elari etre okarobow rioroaja me asoda. Lazse lon viheha kindonrah dowaz jimenama cujecavib kin toblep nuzinna gibuugi eluhatza zulzol zel koatodet fimoda soz popcet. Os rusomhi befof hifzis mokjeguw ke huse lamlujcoh lar oljawon tovfohvun agaezizu di ih ehu. Iriwavnu joaj nunlur locawe fi tenfafze zi izo ezezof geztokoc co kuvfawur fiwpolof vofov picip. Heceriar gojwem bi mujriprug ube kowoimo ume jaj fagci at oz eno epo. Sike vihpe gurud ci ranuble emeigu pucro tofug licnacuce fogu osce fizubjo di. Pefge otgeoz wukkouge lopa zizemub woz wauw ohanu lubfub lirpe wahdeh pal zuwa vop."
+  },
+  "apiKey": "c5393e9b1e24def3c3b80ac737ecec1f8507582031b18f8a21854640acec6c2c",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
