@@ -1,0 +1,26 @@
+{
+  "name": "Billy Armstrong",
+  "age": 59,
+  "address": {
+    "street": "Valuj Junction",
+    "city": "Huselo",
+    "state": "PA",
+    "zip": "62133"
+  },
+  "contact": {
+    "phone": "(685) 956-6082",
+    "servicePhone": "800897774"
+  },
+  "birthday": "1972-09-24T19:34:44.057Z",
+  "ip": "92.59.104.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Futlug ok emasu etluzge cahkivco jolleza kutenga widec gehro gifo wi doguti mimuzif faf larevun zafe pajisu nurazar. Sicahewuj tub bekecwu esezu tiesoka distusim iv gi ku habuh fe elzoru wos sihufwan kajbuha wesa tagid. Gorec ibvigve du afujew annuv kikevcuc beasejek mep dam nazigve ov fijrucvop dadbod.",
+    "bio": "Ep ev jun parudu rodkuk puupci vifboj mil zeuti malvi tucpu rofedsop zaheho. Ahgana onvuklim damgiupa bese fuz ojevin hegpehre lojifa wuvense paek vod fakewgo. Iljiniji beuhuru ibaci tefaj solo pil kig ewmijan helva fosamhuc izozalaza irfu ji."
+  },
+  "apiKey": "6e4ee0fb5990e5e8ac42f8bdbc53f98de465a74bf660afda1863daa7dccb2cfc",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
