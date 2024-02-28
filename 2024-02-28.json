@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Garrett",
+  "age": 26,
+  "address": {
+    "street": "Tarfa Street",
+    "city": "Zaniwkes",
+    "state": "WA",
+    "zip": "34441"
+  },
+  "contact": {
+    "phone": "(946) 280-4540",
+    "servicePhone": "800345919"
+  },
+  "birthday": "1987-06-04T15:26:16.946Z",
+  "ip": "152.203.251.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Gon if pe zipa gupbagsek alevij disjebal kohov nellukdu nis lok lobeki kudsuw gef gavjauto cijujzas ne. Loterwu pohzeumi rebisji id ge opisu dodeju mo jim hode duw ovefu ta uz cafruhen pi ov. Ukriic toit id pillenil jamra laswu amisti vu vu foli jebna beuta mapal.",
+    "bio": "Ci opagas uhhep biguwve ima fi vogwuima ezaovo ubakin obeviw jelsudo ewi bickeba hi ceer. Fine kofmunre lapu gob wamaz uleme za jiv tekaawo kanurfo humza cud sencon foutvi obcowib rududil utedak. Huspas bepig mu cekik tobor ciwevop uvhim kusis ba pacuvdo bosejusu guf nurwufep."
+  },
+  "apiKey": "549ce3fb9683c1038448ece3a88e58e066815a9d87044de0630c0d3bd8a3ccac",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
