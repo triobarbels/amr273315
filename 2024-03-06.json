@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Nash",
+  "age": 46,
+  "address": {
+    "street": "Duhe Terrace",
+    "city": "Anvudloj",
+    "state": "ME",
+    "zip": "01545"
+  },
+  "contact": {
+    "phone": "(837) 864-3555",
+    "servicePhone": "800453788"
+  },
+  "birthday": "2005-09-16T10:15:36.982Z",
+  "ip": "151.234.183.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Risjiko kav mi wej ta hiogsik orijef wakuthog gaki ol vi ovud zuwite pamma ogmiut. Alunobi motalerib opehi ulpane uf fat ga ul biwof azo kopiz kirhe tih bis racamo ro notgad. Hupag sovadebe meke me ke bo iru si om nacec zatre tabetu owke zaszo.",
+    "bio": "Emuzup rirtog et sadmuvju wut zu tozugi toti dut ogpi vobben bo hod nac kecen pibipu utisuwir. Jupahzo iku nazvoz gicin tagin ak ahgufiw sojivehav kes gu ag wek hu ob ne ociez wa avci. Icaoza ripta jifi ekadasde ec ogile maaple em zarzaj soebpeg lidvog nak ruge. Imav ko dipjigbod iw suhsu ajkuje rako akanawo muin ukumev ijaojel edhuz bud ve ravnokezi takiv sif dek. Zivo zovanfe nisozifa dos zotof ket fo cupa hapfa ri puh tuk voozoja vizosa."
+  },
+  "apiKey": "d1cd7dd2582a309ee983f2169498d274f0439cc09ecac990d0aba72197631874",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
