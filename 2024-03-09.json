@@ -1,0 +1,26 @@
+{
+  "name": "Francis Long",
+  "age": 18,
+  "address": {
+    "street": "Fozzap Circle",
+    "city": "Campiot",
+    "state": "NH",
+    "zip": "94376"
+  },
+  "contact": {
+    "phone": "(781) 911-4761",
+    "servicePhone": "800442833"
+  },
+  "birthday": "2003-01-28T19:46:34.581Z",
+  "ip": "91.101.19.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta wecej dezimej ti okubu ugweveh tiz jeviwu ribugew lealeut odijeb ug coafaove pigihe geeb ba ro huklopul. Lapoh babnopuj wiwib rikdi sum jegsapga uphaslij pawicsad eb raki zaaceid simbo ziimu. Sat vu puhi fanebpu cadujaibi fusojne li bo kanvel hu diizebir ov letas lif rebwo. Gidehbi deuci se daena abijigo osuowam dohfehje anka mi jiasiar fabati deti niw tazro jusico huvaw ibhaeba jacvijeco. Is hehuuza vorucoc heh ji mignodge kedug mogkil iv koesuma hatu hik jucom. Jiga sozoheni amberoc puzoj vir kej ci dego vegi pippuh nev wazuzev va zula forwoupo zizah horev.",
+    "bio": "Hubohko zu vusono tu bewoj tulejihe ofzifal kuwred ku ban ramase ebauvge ejuul las jip. Atacizil ekwiho zu vuvaho upgavte pid zuz ozik cedul lihuspuf bobugdo ji. Av ekgu mebivseh revun vawo fujav husu capevsa hugew mi val reowa jinraj rose gap buwbaf dih. Ukeice fo gietu ejoiritol apetutri erosiw to fupiv so opu vaphow gi merse usunukvuj. Luine rantu vofagmu jig ad jebu tuze soje lacnuza fojuwo docewos hah."
+  },
+  "apiKey": "c0c9b1c6d986c92b294fd3aa2cb8ae62b4c1c672ba5a0c0a665e3cd86af2bfb8",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
