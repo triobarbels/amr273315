@@ -1,0 +1,26 @@
+{
+  "name": "Lena Rodriguez",
+  "age": 25,
+  "address": {
+    "street": "Higuz Grove",
+    "city": "Firtunvus",
+    "state": "OR",
+    "zip": "41115"
+  },
+  "contact": {
+    "phone": "(608) 381-9062",
+    "servicePhone": "800535233"
+  },
+  "birthday": "1991-04-10T16:21:22.445Z",
+  "ip": "15.175.11.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Jocje ijojac vosup bufun ifijod wef zeici toma ubedovi hefacer bune uwuahe. Ticu acaco cegecu vum lij rez okicinsu beuh ho ti bujenad jihpu zunpawi vufrirfoj cu. Fe zag bor nuruj osa moehe nojotug su nazahgo etuuhu satcas vohohul ibolid guslan.",
+    "bio": "Ves ci zoh lagikom osu fut ji afaka us duvevul woolo fosif luaz cofego casev zu oda. Urejaji dogof rezagaw tojasac kih ton mawufbi jesgapsi budnetat muni ufu jis rib ajimap zo. Koadza ti pegnejfa ojrotmeh al ubenaawu jo zizgivic wo lufecmi tabcez jerjiek ti zeshaho sabdol lum."
+  },
+  "apiKey": "b392f798d03c475e6b8322c1b05b33b70cf43ebe5aec265b96eb5cce75c97234",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
